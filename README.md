@@ -2,6 +2,7 @@
 initial level Block chain learning 
 
 smashingCoin mining in progress....
+```json
 {
     "blockchain": [
         {
@@ -39,4 +40,5 @@ smashingCoin mining in progress....
     ],
     "difficulty": 4
 }
+
 
